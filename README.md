@@ -13,6 +13,7 @@ Git & GitHub
 Testing QA
 
 📂 Proyectos destacados
+
 🎮 Videojuerguistas
 
 Sitio web inspirado en compra de saldo para plataformas de videojuegos digitales, desarrollado con HTML, CSS y Bootstrap.
