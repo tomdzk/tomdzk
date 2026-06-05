@@ -29,6 +29,7 @@ E-commerce ficticio de coleccionables Funko Pop con catálogo dinámico, carrito
 Aplicación de escritorio desarrollada en Python utilizando Tkinter y SQLite para la gestión y consulta de información relacionada con Pokémon.
 
 📫 Contacto
+
 LinkedIn: https://www.linkedin.com/in/tomasdzk/
 
 Email: tomasdzk@gmail.com
