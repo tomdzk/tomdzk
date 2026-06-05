@@ -30,6 +30,7 @@ Aplicación de escritorio desarrollada en Python utilizando Tkinter y SQLite par
 
 📫 Contacto
 LinkedIn: https://www.linkedin.com/in/tomasdzk/
+
 Email: tomasdzk@gmail.com
 
 <!--
