@@ -3,14 +3,13 @@
 Apasionado por la tecnología, la programación y el análisis de datos. Actualmente continúo desarrollando proyectos para fortalecer mis conocimientos en desarrollo web, Python y testing, combinando mi experiencia en comunicación con habilidades técnicas orientadas a la resolución de problemas.
 
 🚀 Tecnologías y herramientas
-Python
-HTML5
-CSS3
-JavaScript
-Bootstrap
-SQLite
-Git & GitHub
-Testing QA
+-Python
+-HTML5
+-CSS3
+-JavaScript
+-Bootstrap
+-SQLite
+-Testing QA
 
 -------------------------
 📂 Proyectos destacados
